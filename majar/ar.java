@@ -1,3 +1,4 @@
+package majar;
 public class ar {
     public static void main(String[]args){
     int [] arr={9,8,7,6,5};
